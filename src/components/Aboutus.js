@@ -7,15 +7,16 @@ function Aboutus() {
       <div className="flex flex-col md:flex-row items-center justify-center gap-10">
         {/* Video */}
         <div className="w-full md:w-1/2">
-        <iframe
+    <iframe
   className="w-full h-[300px] md:h-[400px] rounded-xl shadow-lg"
-  src="https://www.youtube.com/embed/x2nQDUEs4Fc?si=F9-CsJyhX7hFvlb5"
+  src="https://www.youtube.com/embed/nIXLgPHTgYc?si=rRqywaGzEP87eLCA"
   title="YouTube video player"
   frameBorder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   referrerPolicy="strict-origin-when-cross-origin"
   allowFullScreen
 />
+
 
         </div>
 
