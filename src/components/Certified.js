@@ -40,7 +40,7 @@ const certData = [
     more: "This reflects our eligibility for export into the U.S., assuring buyers of our adherence to FDA-monitored processes and food safety.",
   },
   {
-    img: "https://qltysys.com/wp-content/uploads/2021/01/22000-2018-1.png",
+    img: "/brclogo.png",
     preview: "/brc.jpg",
     title: "ISO 22000",
     desc: "Certified for international food safety management system standards.",
