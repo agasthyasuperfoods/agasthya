@@ -40,12 +40,13 @@ const certData = [
     more: "This reflects our eligibility for export into the U.S., assuring buyers of our adherence to FDA-monitored processes and food safety.",
   },
   {
-    img: "/brclogo.png",
-    preview: "/brc.jpg",
-    title: "ISO 22000",
-    desc: "Certified for international food safety management system standards.",
-    more: "Our ISO 22000 certification guarantees food safety from farm to fork through hazard analysis, traceability, and preventive control mechanisms.",
-  },
+  img: "/brclogo.png",
+  preview: "/brc.jpg",
+  title: "BRC Food Safety",
+  desc: "Certified to the BRCGS Global Standard for Food Safety (GFSI-recognized).",
+  more: "BRC certification confirms HACCP-based food safety plans, GMP and hygiene controls, site and equipment standards, allergen and supplier management, full traceability, and compliance with retailer and legal requirements."
+},
+
 ];
 
 export default function Certified() {
